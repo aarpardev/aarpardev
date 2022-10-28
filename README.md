@@ -7,11 +7,9 @@
 
 - 💬 Ask me about sound design for interactive media.
 
-- 📫 How to reach me **aarpar204@gmail.com**
-
 - ⚡ Fun fact **I love composing chiptune music.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Stats:</h3>
 <p align="left">
 <a href="https://twitter.com/lndevhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lndevhub" height="30" width="40" /></a>
 </p>
