@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I love making chiptune music.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">You can find me at either <a rel="me" href="https://techhub.social/@lndevhub" target="_blank">Mastodon</a> or <a href="https://twitter.com/lndevhub" target="_blank">Twitter</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
