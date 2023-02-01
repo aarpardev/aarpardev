@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A Canadian full-stack software engineer/ Android app developer.</h3>
-<h3 align="center">This repo with the user lndevhub will be changed to aarpardev as of Feb 1st 2023. </h3>
 
 - 🔭 I’m currently **getting ready to freelance.**
 
