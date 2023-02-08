@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently **getting ready to freelance.**
 
-- 🌱 I’m currently learning **Node Express and React**
+- 🌱 I’m currently learning **React JS and Practical Algorithms**
 
-- 💬 Ask me about **web audio engines, neurodiversity, and front-end development**
+- 💬 Ask me about **web audio engines and front-end development**
 
 - ⚡ Fun fact **I love making chiptune music!**
 
