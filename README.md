@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **getting ready to freelance.**
 
-- 🌱 I’m currently learning **React JS, Python, and Practical Algorithms**
+- 🌱 I’m currently learning **Python, and Practical Algorithms**
 
 - 💬 Ask me about **web audio engines and front-end development**
 
