@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & Typescript**
 
-- 👯 I’m looking to collaborate on **open-source audio development projects (starting May 2023)**
+- 👯 I’m looking to collaborate on **open-source front-end / audio development projects (starting May 2023)**
 
 - 👨‍💻 All of my projects are available <a href="https://aarpardev.netlify.app/#portfolio" target="_blank">on my website</a>.
 
