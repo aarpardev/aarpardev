@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **updating clients' websites with NextJS / Express / or React.**
 
-- 🌱 I’m currently learning **Python & Typescript**
+- 🌱 I’m currently learning **MERN stacks & Typescript**
 
 - 👯 I’m looking to collaborate on **open-source front-end / audio development projects (starting May 2023)**
 
