@@ -11,7 +11,7 @@
 
 <p align="center">- ⚡ Fun fact **I love Super Nintendo games.**</p>
 
-<h2>Skills and Tools I Use</h2>
+<h2 align="center">Skills and Tools I Use</h2>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -27,4 +27,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<p align="center"><a href="https://www.codewars.com/users/aarpardev/" target="_blank"><img src="https://www.codewars.com/users/aarpardev/badges/large"></a></p>
+<h2 align="center"><a href="https://www.codewars.com/users/aarpardev/" target="_blank"><img src="https://www.codewars.com/users/aarpardev/badges/large"></a></h2>
