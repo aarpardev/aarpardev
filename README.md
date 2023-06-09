@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A Canadian full-stack software engineer.</h3>
 
-<p align="center">- 🔭 I’m currently **updating clients' websites with NextJS / Express / or React.**</p>
+<p align="center">- 🔭 I’m currently **updating a client websites with React.**</p>
 
 <p align="center">- 🌱 I’m currently learning **MERN stacks, Typescript, & reviewing SQL**</p>
 
-<p align="center">- 👯 I’m looking to collaborate on **open-source front-end / audio development projects (starting June 2023)**</p>
+<p align="center">- 👯 I’m looking to collaborate on **open-source front-end / audio development projects **</p>
 
 <p align="center">- 👨‍💻 All of my projects are available <a href="https://aarpardev.netlify.app/#portfolio" target="_blank">on my website</a>.</p>
 
