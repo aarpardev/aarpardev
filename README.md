@@ -3,13 +3,11 @@
 
 <p align="center">- 🔭 I’m currently **updating a client website with React and MySQL.**</p>
 
-<p align="center">- 🌱 I’m currently learning ** MERN stacks & advanced Typescript **</p>
-
 <p align="center">- 👯 I’m looking to collaborate on **open-source / audio development projects **</p>
 
 <p align="center">- 👨‍💻 All of my projects are available <a href="https://aarpardev.netlify.app/#portfolio" target="_blank">on my website</a>.</p>
 
-<p align="center">- ⚡ Fun fact **I love Vancouver, BC.**</p>
+<p align="center">- ⚡ Fun fact **I can compose NES, SNES, and Sega Genesis style music.**</p>
 
 <h2 align="center">Skills and Tools I Use</h2>
 <p align="center">
