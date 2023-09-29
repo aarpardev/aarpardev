@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A Canadian full-stack software engineer.</h3>
 
-<p align="center">- 🔭 I’m currently **updating a client website with React and MySQL.**</p>
+<p align="center">- 🔭 I’m currently **updating a client website with React, MySQL, or Supabase.**</p>
 
-<p align="center">- 👯 I’m looking to collaborate on **open-source / audio development projects **</p>
+<p align="center">- 👯 I’m looking to collaborate on **open-source development projects **</p>
 
 <p align="center">- 👨‍💻 All of my projects are available <a href="https://aarpardev.netlify.app/#portfolio" target="_blank">on my website</a>.</p>
 
-<p align="center">- ⚡ Fun fact **I can compose NES, SNES, and Sega Genesis style music.**</p>
+<p align="center">- ⚡ Fun fact **I am writing my first philosophy book.**</p>
 
 <h2 align="center">Skills and Tools I Use</h2>
 <p align="center">
