@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">A Canadian full-stack software engineer.</h3>
+<h1 align="center">Hi 👋, I'm Aaron Parsons</h1>
+<h3 align="center">A freelance web developer from Winnipeg</h3>
 
-<p align="center">- 🔭 I’m currently **updating a client website with React, MySQL, or Supabase.**</p>
+- 🔭 I’m currently working on **creating a secure templates for future development**
 
-<p align="center">- 👯 I’m looking to collaborate on **open-source development projects **</p>
+- 🌱 I’m currently learning **Python**
 
-<p align="center">- 👨‍💻 All of my projects are available <a href="https://aarpardev.netlify.app/#portfolio" target="_blank">on my website</a>.</p>
+- 🤝 I’m looking for help with **finding clients for 2024**
 
-<p align="center">- ⚡ Fun fact **I am writing my first philosophy book.**</p>
+- 👨‍💻 All of my projects are available on [my website](https://aarpardev.netlify.app)
+
+- 💬 Ask me about **react, postgreSQL, audio + javascript**
+
+- 📄 Know about my experiences [on my resume](https://aarparmedia.com/apm-resume/aaronparsons-resume-2023.pdf)
 
 <h2 align="center">Skills and Tools I Use</h2>
 <p align="center">
